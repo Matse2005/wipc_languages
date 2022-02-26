@@ -1,1 +1,14 @@
-{}
+{
+  "language": "🇬🇧 English",
+  "alert": {
+    "joined": "This IP is a part from the World IP Counter 🥳",
+    "notJoined": "This IP is not a part from the World IP Counter 😢"
+  },
+  "subTitle": "Welcome to the world IP adress counter",
+  "title": "IP adresses are already members of the world counter",
+  "description": "The world IP address counter is one that allows any IP to use the button once which will ensure that we get a large counter at any given time.",
+  "button": {
+    "title": "Join the world IP counter",
+    "loading": "Loading..."
+  }
+}

@@ -1,4 +1,16 @@
 [
-  "en.json",
-  "nl.json"
+  {
+    "file": "en.json",
+    "flag_emoji": "🇬🇧",
+    "flag_name": "British",
+    "id": "en",
+    "name": "English"
+  },
+  {
+    "file": "nl.json",
+    "flag_emoji": "🇳🇱",
+    "flag_name": "Dutch",
+    "id": "nl",
+    "name": "Nederlands"
+  }
 ]
